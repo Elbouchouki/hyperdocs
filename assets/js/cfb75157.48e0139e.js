@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[210],{3461:e=>{e.exports=JSON.parse('{"title":"Hyperdocs","slug":"/category/hyperdocs","permalink":"/docs/category/hyperdocs","navigation":{"next":{"title":"Portfolio","permalink":"/docs/hyperdocs/portfolio"}}}')}}]);
