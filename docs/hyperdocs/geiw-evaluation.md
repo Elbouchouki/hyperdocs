@@ -14,9 +14,9 @@ The Hackathon involved groups of 5 volunteer students from different Moroccan sc
 
 Our team opted for a **microservice** solution, which we called a **decentralized** and **distributed** solution, as it combined the distribution of services our application provided with the decentralization of the data in blockchains.
 
-Despite the unfamiliarity, our team worked hard for 24 hours and tried our best to deliver a well-done solution. While there were some constraints that hindered us from getting the first prize, such as time management issues and other undisclosed constraints, we still managed to deliver a strong backend solution, which helped us secure the <Star /> **second prize** without even having a frontend.
+Despite the unfamiliarity, our team worked hard for 24 hours and tried our best to deliver a well-done solution. However, one of the problems I had was the fact that this was my first hackathon, with a team whom I had never worked with before. I was surprised by the technical level of some of our team members and their capacity to complete the tasks assigned to them. This created a major problem for the other team members, as we found ourselves with only 2 or 2.5 out of 5 members working hard on the project, while others did not seem to care much about it. This lack of interest was the major negative experience I had in this hackathon, and it was the number one factor that prevented us from completing the whole project, including not having the frontend.
 
-Overall, the GEIW Hackathon was a great learning opportunity for me and a chance to work on a challenging project in a short amount of time. I appreciated the chance to work on something new and exciting, and I am grateful and proud of our team's achievements.
+Despite these challenges, we still managed to deliver a strong backend solution, which helped us secure the <Star /> **second prize** without even having a frontend. Overall, the GEIW Hackathon was a great learning opportunity for me and a chance to work on a challenging project in a short amount of time. I appreciated the chance to work on something new and exciting, and I am grateful and proud of our team's achievements.
 
 
 ### My team's project is available at [github.com/TL3B-HACKATHON](https://github.com/TL3B-HACKATHON)
