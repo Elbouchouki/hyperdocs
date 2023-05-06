@@ -9,7 +9,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Elbouchouki Ahmed',
   tagline: 'Software Engineering Student',
-  url: 'https://hyperdocs.elbouchouki.live/',
+  url: 'hyperdocs.elbouchouki.live',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
